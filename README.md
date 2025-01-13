@@ -1,28 +1,27 @@
 # Web_Development_Tracker
 A repository designed to organize, track, and document my journey in web development. It includes studies and practices in system design, back-end, front-end, API integration, databases, authentication, and full-stack projects.
-___
-# Repository Structure
+
+---
+
+## Repository Structure
+```plaintext
 Web_Development_Tracker/
 │
-├── README.md                   
+├── README.md                   # General repository description
 ├── System_Design/              # Studies and practices on system design
-│   ├── concepts/                 
-│   ├── scalability/            
-│   └── exercises/              
+│   ├── concepts/               # Basic concepts of system design
+│   ├── scalability/            # Studies on scalability and architecture
+│   └── exercises/              # Practical cases and exercises
 │
 ├── Back_End/                   # Back-end development
-│   ├── concepts/                
-│   ├── projects/          
-│   └── exercises/               
+│   ├── concepts/               # Key back-end concepts
+│   ├── projects/               # Back-end specific projects
+│   └── exercises/              # Back-end exercises and challenges
 │
-├── Front_End/                # Front-end development 
-│   ├── concepts/                
-│   ├── projects/          
-│   └── exercises/                
-│
-├── Full_Stack_Projects/        # Full-stack project development
-│   ├── small_projects/         # Link to Smaller-scale projects integrating front-end and back-end
-│   └── large_projects/         # Link to Large-scale applications with complete functionality
+├── Front_End/                  # Front-end development
+│   ├── concepts/               # Key front-end concepts
+│   ├── projects/               # Front-end specific projects
+│   └── exercises/              # Front-end exercises and challenges
 │
 ├── API_Studies/                # API integration and creation
 │   ├── basics/                 # Introduction to APIs and HTTP methods
@@ -31,6 +30,7 @@ Web_Development_Tracker/
 │   └── exercises/              # API-related exercises and practices
 │
 ├── Resources/                  # Additional learning resources
-│   ├── books_and_articles/                             
-│   └── courses/                  
+│   ├── books_and_articles/     # Books and articles for web development
+│   └── courses/                # Courses and tutorials
+│
 └── .gitignore                  # Git ignore file
