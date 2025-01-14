@@ -8,17 +8,17 @@ A repository designed to organize, track, and document my journey in web develop
 Web_Development_Tracker/
 │
 ├── README.md                   # General repository description
-├── Back_End/                   # Back-end development
+├── back_end/                   # Back-end development
 │   ├── concepts/               
 │   ├── projects/               
 │   └── exercises/              
 │
-├── Front_End/                  # Front-end development
+├── front_end/                  # Front-end development
 │   ├── concepts/              
 │   ├── projects/               
 │   └── exercises/                     
 │
-├── Resources/                  # Additional learning resources
+├── resources/                  # Additional learning resources
 │   ├── books_and_articles/     
 │   └── courses/               
 │
