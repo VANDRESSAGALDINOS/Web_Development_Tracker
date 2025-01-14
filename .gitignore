@@ -12,3 +12,5 @@ Thumbs.db
 .env.local
 # VS Code configuration files
 .vscode/
+bin/
+obj/
