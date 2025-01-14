@@ -1,0 +1,14 @@
+*.log
+logs/
+node_modules/
+vendor/
+dist/
+build/
+*.out
+*.o
+.DS_Store
+Thumbs.db
+.env
+.env.local
+# VS Code configuration files
+.vscode/
